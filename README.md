@@ -4,29 +4,32 @@
 🌱 I’m currently learning advanced concepts in *AI/ML, **TypeScript, and **System Design*.  
 💞 I’m looking to collaborate on open source projects, hackathons, and innovative tech solutions.  
 📫 How to reach me:  
-- Email: ravishankarsingh.dev@gmail.com
-- LinkedIn: [linkedin.com/in/ravishankar-singh](https://linkedin.com/Ravinakumari019)  
-- Portfolio: [ravishankarsingh.dev](https://ravishankarsingh.dev) (Update if available)
+- Email: ravinaramina.dev@gmail.com
+- LinkedIn: [linkedin.com/in/ravinakumari019](https://www.linkedin.com/in/ravinakumari019)  
+- Portfolio: [ravinakumari.dev](https://ravinakumari.dev) (Update if available)
 
-😄 Pronouns: He/Him  
-⚡ Fun fact: I love simplifying complex problems — be it debugging code or making a learning path for students. Also, I enjoy working on real-world educational tools and mentoring beginners.
+😄 Pronouns: She/Her  
+⚡ Fun fact: As a woman in tech, I’m passionate about simplifying complex ideas—be it through clean code, intuitive learning tools, or mentoring those just starting out.
+### 🌐 Languages I Speak  
+🗣️ English | Hindi | Marathi | Kannada | Gujarati | adding....
+
 
 ---
 
 ### 🚀 Tech Stack
 
-- *Languages:* JavaScript, Python, C++, PHP  
-- *Frontend:* HTML, CSS, Bootstrap, Angular  
-- *Backend:* Node.js, Express.js, PHP  
+- *Languages:* Java, Javascript, Typescript, Phyton
+- *Frontend:* HTML, CSS, Bootstrap, Angular, TailwindCSS 
+- *Backend:* Node.js, Express.js   
 - *Database:* MongoDB, MySQL, PostgreSQL  
-- *Tools & Platforms:* Git, GitHub, XAMPP, VS Code, Figma  
-- *Other Interests:* NLP, Educational Tech, Public Speaking
+- *Tools & Platforms:* Git, GitHub, VS Code, Figma, Canva 
+- *Other Interests:* AI/ML, Educational Tech, Public Speaking, Enjoy Skteching, ContentCreation
 
 ---
 
 ### 📊 GitHub Stats
 
-![Ravina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravi098987&show_icons=true&theme=radical)
+![Ravina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravinakumari019&show_icons=true&theme=radical)
 
 ---
 
