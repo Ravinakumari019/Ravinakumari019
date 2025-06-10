@@ -4,8 +4,8 @@
 🌱 I’m currently learning advanced concepts in *AI/ML, **TypeScript, and **System Design*.  
 💞 I’m looking to collaborate on open source projects, hackathons, and innovative tech solutions.  
 📫 How to reach me:  
-- Email: ravishankarsingh.dev@gmail.com  
-- LinkedIn: [linkedin.com/in/ravishankar-singh](https://linkedin.com/in/ravishankar-singh)  
+- Email: ravishankarsingh.dev@gmail.com
+- LinkedIn: [linkedin.com/in/ravishankar-singh](https://linkedin.com/Ravinakumari019)  
 - Portfolio: [ravishankarsingh.dev](https://ravishankarsingh.dev) (Update if available)
 
 😄 Pronouns: He/Him  
@@ -26,7 +26,7 @@
 
 ### 📊 GitHub Stats
 
-![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravi098987&show_icons=true&theme=radical)
+![Ravina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravi098987&show_icons=true&theme=radical)
 
 ---
 
