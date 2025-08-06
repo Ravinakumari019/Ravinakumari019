@@ -34,16 +34,21 @@
 ---
 
 ### 📝 Latest Projects
-- E-Learning Platform (PHP, MySQL)
--  Next.js Project Management App
-Built with Next.js, TypeScript, Tailwind CSS; AWS Cognito for auth, RDS (PostgreSQL) backend, Node.js
-API, AWS deployment.
-- IPO Fintech Web App (Angular + Node.js)
-- Cloud-Based Network Monitoring System (In Development)
-Scalable React/Node/TypeScript tool using AWS VPC Flow Logs, CloudWatch, Lambda, SNS, S3, IAM
-RBAC, Terraform, CI/CD.
--  AgriML – Smart India Hackathon (AI for Agri-Pricing)
-Led ML modeling for price forecasting using regression, scikit-learn pipelines, and real datasets.
+AI Presentation Builder (MERN Stack) 
+Full-stack portal with user roles, CRUD, real-time search, JWT auth, and responsive admin dashboard.
+
+Smart Dog Collar (IoT)
+Designed a pet-safe collar with sensors (temp, heart rate), GPS & Wi-Fi for real-time health/location tracking.
+
+Soil Fertility Detection (Python, Flask, Scikit-learn) 
+ML model to predict soil fertility using NPK data; deployed with Flask for real-time use.
+
+Priorti – Task Manager (MERN Stack) 
+Role-based task platform with JWT auth, secure routing, and real-time progress tracking.
+
+E-Learning Platform (PHP + MySQL) 
+Built a responsive course platform with authentication, student community, and self-assessment tools.
+
 
 ---
 
