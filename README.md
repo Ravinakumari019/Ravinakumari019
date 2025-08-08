@@ -1,18 +1,15 @@
 # Hi there 👋, I’m @Ravinakumari019 (Ravinakumari I Ramina)
 
 👀 I’m interested in Web Development, App Development, Open Source, and Building Scalable Applications.  
-🌱 I’m currently learning advanced concepts in *AI/ML, **TypeScript, and **System Design*.  
+🌱 I’m currently learning concepts in *AI/ML, **TypeScript, and **System Design*.  
 💞 I’m looking to collaborate on open source projects, hackathons, and innovative tech solutions.  
 📫 How to reach me:  
 - Email: ravinaramina.dev@gmail.com
 - LinkedIn: [linkedin.com/in/ravinakumari019](https://www.linkedin.com/in/ravinakumari019)  
 - Portfolio: [ravinakumari.dev](https://ravinakumari.dev) (Update if available)
-
-😄 Pronouns: She/Her  
-⚡ Fun fact: As a woman in tech, I’m passionate about simplifying complex ideas—be it through clean code, intuitive learning tools, or mentoring those just starting out.
+  
 ### 🌐 Languages I Speak  
 🗣️ English | Hindi | Marathi | Kannada | Gujarati | adding....
-
 
 ---
 
