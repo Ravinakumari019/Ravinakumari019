@@ -146,50 +146,20 @@ A Passionate Full Stack Developer | AI Enthusiast | Final Year CSE Student
 # 🚀 Featured Projects
 
 ### 🤖 AI Personal Assistant Agent
+A hierarchical multi-agent assistant built with CrewAI that automates Gmail, Google Calendar, and Google Drive workflows using natural language.
 
-> CrewAI based multi-agent assistant with Gmail, Google Calendar and Google Drive integration.
-
----
-
-### 💬 Nexora
-
-AI Powered Real-Time Chat Application
-
-- Next.js
-- Prisma
-- PostgreSQL
-- Socket.IO
-- Gemini AI
-- Auth.js
-
----
+### 💬 Nexora – AI-Powered Chat App
+A real-time chat application with AI assistance, live messaging, authentication, typing indicators, and markdown support.
 
 ### 📝 Form Builder SaaS
+A scalable backend platform for building dynamic forms with secure authentication, type-safe APIs, and comprehensive API documentation.
 
-Scalable Backend using
 
-- Node.js
-- MongoDB
-- tRPC
-- Zod
-- JWT
-- OpenAPI
+### 🌱 Soil Fertility Detection System
+A machine learning application that predicts soil fertility using Random Forest and KNN models, deployed as a Flask REST API.
 
 ---
-
-### 🌱 Soil Fertility Detection
-
-Machine Learning Project
-
-- Python
-- Flask
-- Random Forest
-- KNN
-- REST API
-
----
-
-# 🏆 Achievements
+### 🏆 Achievements
 
 🏅 1400+ LeetCode Rating
 
