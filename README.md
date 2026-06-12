@@ -189,23 +189,7 @@ A machine learning application that predicts soil fertility using Random Forest 
 
 </p>
 
-<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ravinakumari019&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravinakumari019&theme=tokyo-night"/>
-
-</p>
-
----
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile ⭐
